@@ -2,8 +2,12 @@
 .todo-app {
   margin: 2rem auto 0 auto;
   max-width: 400px;
+
 }
 
+.margl{
+  margin-bottom: 1rem;
+}
 .top-panel {
   margin: 1rem 0;
 }
@@ -27,6 +31,7 @@
 
 .item-add-form {
   margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .item-add-form input {
@@ -70,4 +75,8 @@
 .todo-list-item.important .todo-list-item-label {
   font-weight: bold;
   color: steelblue;
+}
+
+.btn2{
+  
 }
